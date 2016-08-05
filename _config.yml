@@ -1,0 +1,14 @@
+layout_spectrum: 0.96564761409536
+typography_spectrum: 0.7082787787076086
+color:
+  brandStrength: 0.3234926846344024
+  lightness: 0.6533657994586974
+  saturation: 0.004456420661881566
+  rhythmicContrast: 0.5136145672295243
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: box of jupiter
